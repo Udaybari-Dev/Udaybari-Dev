@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Uday Bari  
 
-🚀 **Mern-Stack Developer | Open-Source Enthusiast | AI & ML Learner**  
+🚀 **Mern-Stack Developer | Open-Source Enthusiast | DSA | AI & ML Learner**  
 
-Passionate about **🚀"Web Development | DevOps | Scalable & Automated Solutions", Gen-AI, ML**. I love building high-performance applications and contributing to open-source projects.
+Passionate about **🚀"Web Development | DevOps | Scalable & Automated Solutions", Gen-AI, ML**. 
+I love building high-performance applications and contributing to open-source projects.
 
 ---
 
