@@ -48,7 +48,7 @@ I love building high-performance applications and contributing to open-source pr
 
 ### 🔗 Let's Connect  
 <p align="left">
-  <a href="mailto:Udaybari17@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/></a>
+  <a href="mailto:Udaybari17@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
   <a href="https://www.linkedin.com/in/uday-bari-324hu/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
 </p>
 
