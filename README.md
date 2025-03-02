@@ -46,10 +46,12 @@ I love building high-performance applications and contributing to open-source pr
 
 ---
 
-## 🎯 Let's Connect!  
+### 🔗 Let's Connect  
+<p align="left">
+  <a href="mailto:Udaybari17@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/uday-bari-324hu/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+</p>
 
-📫 **Email:** [Udaybari17@gmail.com]  
-💼 **LinkedIn:** [https://www.linkedin.com/in/uday-bari-324hu/]  
 ---
 
 🔥 _"Code, Build, Innovate!"_ 🚀  
