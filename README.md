@@ -27,9 +27,9 @@ I love building high-performance applications and contributing to open-source pr
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Udaybari324&theme=react)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udaybari324&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udaybari324&layout=compact&theme=react)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Udaybari324&theme=react&date_format=M%20j%5B%2C%20Y%5D)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udaybari324&show_icons=true&theme=react&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udaybari324&layout=compact&theme=react&langs_count=8)  
 
 ---
 
