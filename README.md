@@ -43,7 +43,7 @@ I love building high-performance applications and contributing to open-source pr
 ✔ Secure authentication, payment integration & cloud-based media storage
 ✔ Built with React, Node.js, Express, MongoDB, TailwindCSS & Cloudinary**
 
-**🚀 Live Demo:**[https://study-notion-psi-lemon.vercel.app/]
+**🚀 Live Demo:**[(https://study-notion-edtech-platform-olive.vercel.app/)]
 
 ---
 
