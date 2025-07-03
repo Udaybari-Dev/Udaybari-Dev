@@ -6,9 +6,19 @@ Passionate about **🚀"Web Development | DevOps | Scalable & Automated Solution
 I love building high-performance applications and contributing to open-source projects.
 
 ---
+### 🔗 Let's Connect  
+<p align="left">
+  <a href="mailto:Udaybari17@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/uday-bari-324hu/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://x.com/uday324_17?t=MxOtL6pr8nIbNH_r_dtxbQ&s=09" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter X" width="40" 
+  height="40"/>
+</a>
+
+</p>
+
+---
 
 ## 🔥 Skills & Tech Stack  
-
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
@@ -45,18 +55,12 @@ I love building high-performance applications and contributing to open-source pr
 
 **🚀 Live Demo:**[ https://study-notion-edtech-platform-olive.vercel.app/ ]
 
----
+**🛒 E-bidX — Next-Gen Online Auction Marketplace**  
+✔ Real-time bidding platform with live countdowns and role-based access  
+✔ Secure authentication, product listing & WebSocket-powered updates with under 200ms latency  
+✔ Tracked & analyzed bidding behavior and sessions to boost engagement by 35%  
+**🚀 Live Demo:** [https://e-bid-x.vercel.app/](https://e-bid-x.vercel.app/)
 
-### 🔗 Let's Connect  
-<p align="left">
-  <a href="mailto:Udaybari17@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/uday-bari-324hu/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://x.com/uday324_17?t=MxOtL6pr8nIbNH_r_dtxbQ&s=09" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter X" width="40" 
-  height="40"/>
-</a>
 
-</p>
-
----
 
 🔥 _"Code, Build, Innovate!"_ 🚀  
