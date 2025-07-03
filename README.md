@@ -28,9 +28,9 @@ I love building high-performance applications and contributing to open-source pr
 ---
 ## 📊 GitHub Stats  
 
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udaybari324&show_icons=true&theme=react&cache_seconds=1800)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Udaybari324&theme=onedark&no-frame=true&margin-w=15)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udaybari-Dev&show_icons=true&theme=react&cache_seconds=1800)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Udaybari-Dev&theme=onedark&no-frame=true&margin-w=15)
+
 
 ---
 
