@@ -51,6 +51,7 @@ I love building high-performance applications and contributing to open-source pr
 ✔ Student & Instructor dashboards with interactive learning experience  
 ✔ Secure authentication, payment integration & cloud-based media storage  
 ✔ Built with React, Node.js, Express, MongoDB, TailwindCSS & Cloudinary 
+
 **🚀 Live Demo:** [https://study-notion-edtech-platform-olive.vercel.app/](https://study-notion-edtech-platform-olive.vercel.app/)
 
 **🛒 E-bidX — Next-Gen Online Auction Marketplace**  
