@@ -46,14 +46,12 @@ I love building high-performance applications and contributing to open-source pr
 
 ## 🏆 Featured Projects  
 
-**StudyNotion 📚
-📌 Full-Stack Ed-Tech Platform (MERN)
-✔ Create, consume & rate educational content
-✔ Student & Instructor dashboards with interactive learning experience
-✔ Secure authentication, payment integration & cloud-based media storage
-✔ Built with React, Node.js, Express, MongoDB, TailwindCSS & Cloudinary**
-
-**🚀 Live Demo:**[ https://study-notion-edtech-platform-olive.vercel.app/ ]
+**📚 StudyNotion — Full-Stack Ed-Tech Platform**  
+✔ Create, consume & rate educational content  
+✔ Student & Instructor dashboards with interactive learning experience  
+✔ Secure authentication, payment integration & cloud-based media storage  
+✔ Built with React, Node.js, Express, MongoDB, TailwindCSS & Cloudinary 
+**🚀 Live Demo:** [https://study-notion-edtech-platform-olive.vercel.app/](https://study-notion-edtech-platform-olive.vercel.app/)
 
 **🛒 E-bidX — Next-Gen Online Auction Marketplace**  
 ✔ Real-time bidding platform with live countdowns and role-based access  
