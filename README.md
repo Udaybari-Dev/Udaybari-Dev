@@ -1,87 +1,93 @@
-# 👋 Hi, I'm Uday Bari
+<div align="center">
 
- **Data Engineer | Building Scalable Pipelines | Azure · GCP · Databricks**
+# Hi there, I'm Uday Bari 👋
 
-Passionate about end-to-end **data engineering** — from ingestion and ETL to cloud data lakes and real-time pipelines.  
-Also exploring **Data Science & ML** — because good data engineering is the foundation of great AI.
+**Data Engineer &nbsp;|&nbsp; Scalable Pipelines &nbsp;|&nbsp; Azure · GCP · Databricks**
+
+Passionate about end-to-end data engineering — from ingestion and ETL to cloud data lakes and real-time pipelines.
+Also exploring **Data Science & ML**, because good data engineering is the foundation of great AI.
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Udaybari17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-bari-324hu/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/uday324_17)
+
+</div>
 
 ---
 
-###  Let's Connect
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="mailto:Udaybari17@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/uday-bari-324hu/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://x.com/uday324_17?t=MxOtL6pr8nIbNH_r_dtxbQ&s=09" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter X" width="40" height="40"/></a>
-</p>
+### 🐍 Languages & Core Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-##  Tech Stack
+### ⚙️ Data Engineering
 
-###  Languages & Core Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
-</p>
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat&logo=prefect&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-###  Data Engineering & Infrastructure
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="40" height="40" title="Apache Spark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" title="Redis"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" title="Terraform"/>
-</p>
+---
 
-**Also working with:** Databricks · Prefect · OpenSearch · Delta Lake · ETL/ELT Pipelines · Data Lakehouse Architecture · SQL
+### ☁️ Cloud Platforms
 
-###  Cloud Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" title="Microsoft Azure"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" title="Google Cloud Platform"/>
-</p>
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![ADLS](https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-**Azure:** ADLS Gen2 · Azure Data Factory · Databricks on Azure · Azure Synapse  
-**GCP:** BigQuery · Cloud Storage · Dataflow
+---
 
-###  Data Science & ML
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" title="OpenCV / Computer Vision"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40" title="Scikit-Learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40" title="Streamlit"/>
-</p>
+### 🤖 Data Science & ML
 
-**Exploring:** ML Fundamentals · Computer Vision · AI/ML Model Training & Deployment · Feature Engineering · MLOps
- 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
 ---
 
 ##  What I Work On
 
-```
- ETL/ELT Pipelines        →  Ingestion · Transformation · Loading at scale
- Cloud Data Lakes         →  ADLS Gen2 · Delta Lake · Lakehouse Architecture
- Distributed Processing   →  Apache Spark · Databricks · PySpark
- Workflow Orchestration   →  Prefect · Pipeline Scheduling & Monitoring
- Search & Analytics       →  OpenSearch · SQL · PostgreSQL · Redis
- ML Integration           →  Model serving on top of data pipelines
-```
+| Area | Stack |
+|---|---|
+|  ETL / ELT Pipelines | Ingestion · Transformation · Loading at scale |
+|  Cloud Data Lakes | ADLS Gen2 · Delta Lake · Lakehouse Architecture |
+|  Distributed Processing | Apache Spark · Databricks · PySpark |
+|  Workflow Orchestration | Prefect · Pipeline Scheduling & Monitoring |
+|  Search & Analytics | OpenSearch · SQL · PostgreSQL · Redis |
+|  ML Integration | Model serving on top of data pipelines |
 
 ---
 
-##  Data Engineering Projects
+## 🏆 Projects
 
->  Currently building — projects will be added here soon!
-
-_Working on real-world pipelines: ETL, streaming, cloud data lakes, and ML pipelines._
+> 🚧 **Currently building** — real-world pipelines covering ETL, streaming, cloud data lakes, and ML pipelines. Coming soon!
 
 ---
+
 ---
 
-## Currently Learning & Exploring
+## 📚 Currently Learning
 
 -  Advanced Spark optimizations & Structured Streaming
 -  Data Lakehouse patterns — Delta Lake · Apache Iceberg
@@ -92,4 +98,8 @@ _Working on real-world pipelines: ETL, streaming, cloud data lakes, and ML pipel
 
 ---
 
- _"Good data engineering is the foundation of great AI."_
+<div align="center">
+
+*"Good data engineering is the foundation of great AI."*
+
+</div>
