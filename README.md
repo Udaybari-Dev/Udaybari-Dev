@@ -47,6 +47,7 @@ I work on end-to-end data engineering solutions — from ingestion to transforma
 
 _Working on real-world pipelines covering ETL, streaming, cloud data lakes, and ML pipelines._
 
+---
 
 ## 📚 Currently Learning & Exploring
 
