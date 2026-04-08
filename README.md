@@ -83,12 +83,12 @@ _Working on real-world pipelines: ETL, streaming, cloud data lakes, and ML pipel
 
 ## Currently Learning & Exploring
 
-- ⚡ Advanced Spark optimizations & Structured Streaming
-- 🏗️ Data Lakehouse patterns — Delta Lake · Apache Iceberg
-- 🤖 Computer Vision & ML model deployment
-- 🔁 MLOps — integrating ML workflows with data pipelines
-- 📐 Data architecture & system design at scale
-- 🌍 Terraform for infrastructure as code
+-  Advanced Spark optimizations & Structured Streaming
+-  Data Lakehouse patterns — Delta Lake · Apache Iceberg
+-  Computer Vision & ML model deployment
+-  MLOps — integrating ML workflows with data pipelines
+-  Data architecture & system design at scale
+-  Terraform for infrastructure as code
 
 ---
 
