@@ -79,15 +79,15 @@ Also exploring **Data Science & ML**, because good data engineering is the found
 
 ---
 
-## 🏆 Projects
+##  Projects
 
-> 🚧 **Currently building** — real-world pipelines covering ETL, streaming, cloud data lakes, and ML pipelines. Coming soon!
-
----
+>  **Currently building** — real-world pipelines covering ETL, streaming, cloud data lakes, and ML pipelines. Coming soon!
 
 ---
 
-## 📚 Currently Learning
+---
+
+##  Currently Learning
 
 -  Advanced Spark optimizations & Structured Streaming
 -  Data Lakehouse patterns — Delta Lake · Apache Iceberg
