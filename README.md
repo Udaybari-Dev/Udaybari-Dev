@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Uday Bari
 
-🚀 **Data Engineer | Building Scalable Pipelines | Azure · GCP · Databricks**
+ **Data Engineer | Building Scalable Pipelines | Azure · GCP · Databricks**
 
 Passionate about end-to-end **data engineering** — from ingestion and ETL to cloud data lakes and real-time pipelines.  
 Also exploring **Data Science & ML** — because good data engineering is the foundation of great AI.
 
 ---
 
-### 🔗 Let's Connect
+###  Let's Connect
 
 <p align="left">
   <a href="mailto:Udaybari17@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/></a>
@@ -17,9 +17,9 @@ Also exploring **Data Science & ML** — because good data engineering is the fo
 
 ---
 
-## 🔥 Tech Stack
+##  Tech Stack
 
-### 🐍 Languages & Core Tools
+###  Languages & Core Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
@@ -27,7 +27,7 @@ Also exploring **Data Science & ML** — because good data engineering is the fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
 </p>
 
-### ⚙️ Data Engineering & Infrastructure
+###  Data Engineering & Infrastructure
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="40" height="40" title="Apache Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
@@ -38,7 +38,7 @@ Also exploring **Data Science & ML** — because good data engineering is the fo
 
 **Also working with:** Databricks · Prefect · OpenSearch · Delta Lake · ETL/ELT Pipelines · Data Lakehouse Architecture · SQL
 
-### ☁️ Cloud Platforms
+###  Cloud Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" title="Microsoft Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" title="Google Cloud Platform"/>
@@ -47,7 +47,7 @@ Also exploring **Data Science & ML** — because good data engineering is the fo
 **Azure:** ADLS Gen2 · Azure Data Factory · Databricks on Azure · Azure Synapse  
 **GCP:** BigQuery · Cloud Storage · Dataflow
 
-### 🤖 Data Science & ML
+###  Data Science & ML
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" title="TensorFlow"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40" title="OpenCV / Computer Vision"/>
@@ -56,32 +56,32 @@ Also exploring **Data Science & ML** — because good data engineering is the fo
 </p>
 
 **Exploring:** ML Fundamentals · Computer Vision · AI/ML Model Training & Deployment · Feature Engineering · MLOps
+ 
+---
+
+##  What I Work On
+
+```
+ ETL/ELT Pipelines        →  Ingestion · Transformation · Loading at scale
+ Cloud Data Lakes         →  ADLS Gen2 · Delta Lake · Lakehouse Architecture
+ Distributed Processing   →  Apache Spark · Databricks · PySpark
+ Workflow Orchestration   →  Prefect · Pipeline Scheduling & Monitoring
+ Search & Analytics       →  OpenSearch · SQL · PostgreSQL · Redis
+ ML Integration           →  Model serving on top of data pipelines
+```
 
 ---
 
-## 🏗️ What I Work On
+##  Data Engineering Projects
 
-```
-🔄 ETL/ELT Pipelines        →  Ingestion · Transformation · Loading at scale
-☁️ Cloud Data Lakes         →  ADLS Gen2 · Delta Lake · Lakehouse Architecture
-⚡ Distributed Processing   →  Apache Spark · Databricks · PySpark
-🔁 Workflow Orchestration   →  Prefect · Pipeline Scheduling & Monitoring
-🔍 Search & Analytics       →  OpenSearch · SQL · PostgreSQL · Redis
-🤖 ML Integration           →  Model serving on top of data pipelines
-```
-
----
-
-## 🏆 Data Engineering Projects
-
-> 🚧 Currently building — projects will be added here soon!
+>  Currently building — projects will be added here soon!
 
 _Working on real-world pipelines: ETL, streaming, cloud data lakes, and ML pipelines._
 
 ---
 ---
 
-## 📚 Currently Learning & Exploring
+## Currently Learning & Exploring
 
 - ⚡ Advanced Spark optimizations & Structured Streaming
 - 🏗️ Data Lakehouse patterns — Delta Lake · Apache Iceberg
@@ -92,4 +92,4 @@ _Working on real-world pipelines: ETL, streaming, cloud data lakes, and ML pipel
 
 ---
 
-🔥 _"Good data engineering is the foundation of great AI."_
+ _"Good data engineering is the foundation of great AI."_
