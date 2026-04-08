@@ -47,14 +47,6 @@ I work on end-to-end data engineering solutions — from ingestion to transforma
 
 _Working on real-world pipelines covering ETL, streaming, cloud data lakes, and ML pipelines._
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udaybari-Dev&show_icons=true&theme=react&cache_seconds=1800)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Udaybari-Dev&theme=onedark&no-frame=true&margin-w=15)
-
----
 
 ## 📚 Currently Learning & Exploring
 
